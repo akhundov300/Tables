@@ -1,0 +1,24 @@
+table {
+    border-collapse: collapse;
+}
+
+.main_itif {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.main_imf {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+th {
+    padding: 5px;
+}
+
+td {
+    padding: 5px;
+}
